@@ -1,6 +1,17 @@
 To compile everything and generate dlcs for model, use build.sh
 To run model, use run.py
 
+Notable Requirements:
+Over 16GB of Memory
+Ubuntu 20.02
+Python 3.8
+TensorFlow 3.11
+Qualcomm Neural Processing SDK (latest version)
+python transformers package
+utf8proc source code (https://github.com/JuliaStrings/utf8proc/tree/master)
+  - Please rename folder to "utf8proc-master" instead of "utf8proc"
+boost library (sudo apt-get install libboost-all-dev)
+
 File Descriptions:
 HuggingFaceOutput.py - Runnning Purely HuggingFace's bert Model to confirm proper output
 
