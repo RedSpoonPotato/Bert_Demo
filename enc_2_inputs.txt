@@ -1,0 +1,1 @@
+output/Result_0/Encoder_1:0.raw mask.dat
