@@ -9,7 +9,7 @@ TensorFlow 3.11
 Qualcomm Neural Processing SDK (latest version)
 python transformers package
 utf8proc source code (https://github.com/JuliaStrings/utf8proc/tree/master)
-  - Please rename folder to "utf8proc-master" instead of "utf8proc"
+  - Please rename folder to "utf8proc-master" instead of "utf8proc" and place in working directory
 boost library (sudo apt-get install libboost-all-dev)
 
 File Descriptions:
