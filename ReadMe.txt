@@ -1,3 +1,5 @@
+Please ensure ALL requirements are met before attempting to compile
+
 To compile everything and generate dlcs for model, use build.sh
 To run model, use run.py
 
@@ -11,6 +13,7 @@ python transformers package
 utf8proc source code (https://github.com/JuliaStrings/utf8proc/tree/master)
   - Please rename folder to "utf8proc-master" instead of "utf8proc" and place in working directory
 boost library (sudo apt-get install libboost-all-dev)
+g++ 9.4.1
 
 File Descriptions:
 HuggingFaceOutput.py - Runnning Purely HuggingFace's bert Model to confirm proper output
