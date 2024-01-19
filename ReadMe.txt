@@ -7,7 +7,7 @@ Notable Requirements:
 Over 16GB of Memory
 Ubuntu 20.02
 Python 3.8
-TensorFlow 3.11
+TensorFlow 2.11
 Qualcomm Neural Processing SDK (latest version)
 python transformers package
 utf8proc source code (https://github.com/JuliaStrings/utf8proc/tree/master)
